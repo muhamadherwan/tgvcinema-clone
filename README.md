@@ -1,3 +1,3 @@
-## TGV Cinemas Clone  
+## TGV Cinemas Clone.  
 ### Movie Seat booking App.
-### Build with Vanilla JavaScript
+### Build with Vanilla JavaScript.
